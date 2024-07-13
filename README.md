@@ -1,5 +1,6 @@
 # IBM-Data-Science-Capstone-Project
 
+https://github.com/dr-mburu-analyst/IBM-Data-Science-Capstone-Project/blob/main/images/Rocket%20picture.jpg
 The purpose of this capstone project was to predict whether Falcon 9 first stage will land successfully. Insights gained are significant in improving prediction 
 accuracy, and informing strategic planning for SpaceX launches.
 
